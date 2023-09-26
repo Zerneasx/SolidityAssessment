@@ -24,7 +24,6 @@ To work with the Solidity project, you can follow these steps:
 * Copy the address(located at Account tab)
 * Paste the address on the text boxes, such as in burn, mint, and balance
 * You can now use the program that's set up. You can make new tokens or remove some using functions like "mint" and "burn."
-* 
 ### Variables
 
 - `tokenName`: The name of the token (e.g., "META").
@@ -37,7 +36,7 @@ To work with the Solidity project, you can follow these steps:
 
 ## Authors
 Donato, Zeno.
-Project prepared by Metacrafters
+202011124@fit.edu.ph
 
 ## License
 This project is licensed under the [Metacrafters] License - see the LICENSE.md file for details
