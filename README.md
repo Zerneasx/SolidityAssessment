@@ -1,4 +1,4 @@
-# SolidityAssessment
+# Solidity Assessment
 
 This program is a Solidity smart contract named MyToken. It is designed to manage a custom cryptocurrency with the following features:
 
