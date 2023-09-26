@@ -10,6 +10,7 @@ To work with the Solidity project, you can follow these steps:
 * Create a new file with a .sol extension
 * Copy and paste the content of the MyToken.sol contract into the file.
 
+## Executing the program
 ### Compile the program
 * In Remix, go to the "Solidity Compiler" tab (located on the left side).
 * Set the "Compiler" version to 0.8.18 (or press auto-compile).
