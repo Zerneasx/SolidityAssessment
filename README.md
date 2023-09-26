@@ -1,11 +1,11 @@
 # Solidity Contract Assessment
 ## Description
-The MyToken Solidity contract is like a basic example that shows how to make a computer program using Solidity. 
-This program can create and remove tokens and keep track of how many tokens the user have. 
+The MyToken Solidity Project is a basic example that shows how to make a computer program using Solidity. 
+This program can create and remove tokens and track how many tokens the user has. 
 
 ## Getting Started
-To work with Solidity project, you can follow these steps:
-### If using remix website recommended in the module for online-compiler
+To work with the Solidity project, you can follow these steps:
+### If using the remix website recommended in the module for online compiler
 * Go to the Remix website at https://remix.ethereum.org/.
 * Create a new file with a .sol extension
 * Copy and paste the content of the MyToken.sol contract into the file.
@@ -16,27 +16,27 @@ To work with Solidity project, you can follow these steps:
 * Click the "Compile MyToken.sol" button.
 
 ### Deploy Transaction
-* In Remix, go to the "Deploy & Run Transactions" tab.
+* Go to the "Deploy & Run Transactions" tab in Remix.
 * Select the "MyToken" contract from the dropdown menu.
 * Click the "Deploy" button.
   
 ### Setting up the Deployed contract:
 * Copy the address(located at Account tab)
-* Paste the address on the textboxes, such as in burn, mint, and balance
-* You can now use the program that's set up. You can do things like making new tokens or removing some using functions like "mint" and "burn".
+* Paste the address on the text boxes, such as in burn, mint, and balance
+* You can now use the program that's set up. You can make new tokens or remove some using functions like "mint" and "burn."
 * 
 ### Variables
 
 - `tokenName`: The name of the token (e.g., "META").
 - `tokenAbbrv`: The token abbreviation (e.g., "MTA").
-- `totalSupply`: The total supply of tokens. Default value is set to 0.
+- `totalSupply`: The total supply of tokens. The default value is set to 0.
 
 ### Functions
 - `mint(address _address, uint _value)`: Mint new tokens and increase the balance of an address.
 - `burn(address _address, uint _value)`: Burn tokens and decrease the balance of an address, with validation to ensure the address has sufficient tokens.
 
 ## Authors
-Donato, Zeno
+Donato, Zeno.
 Project prepared by Metacrafters
 
 ## License
